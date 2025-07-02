@@ -1,0 +1,4 @@
+/.envvenv/
+/env
+config.bat
+node_modules
